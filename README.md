@@ -1,6 +1,6 @@
 # What does LIME really see in images?
 
-Python code for the submission. No installation required, the main requirements are LIME (tested with version 0.2.0.0) and Tensorflow (>=2.1.0).
+Python code for the preprint [What does LIME really see in images?](https://arxiv.org/abs/2102.06307) No installation required, the main requirements are LIME (tested with version 0.2.0.0) and Tensorflow (>=2.1.0).
 
 ## General organization
 
