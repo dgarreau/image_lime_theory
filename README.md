@@ -1,6 +1,6 @@
 # What does LIME really see in images?
 
-Python code for the preprint [What does LIME really see in images?](https://arxiv.org/abs/2102.06307) No installation required, the main requirements are LIME (tested with version 0.2.0.0) and Tensorflow (>=2.1.0).
+Python code for the paper [What does LIME really see in images?](https://arxiv.org/abs/2102.06307) No installation required, the main requirements are LIME (tested with version 0.2.0.0) and Tensorflow (>=2.1.0).
 
 ## General organization
 
@@ -20,3 +20,21 @@ The script ``shape_detector.py`` produces the plots for Figure 3, ``linear_model
  - run ``compute_empirical.py`` to get empirical LIME explanations
  - run ``compute_approx.py`` to get approximated explanations
  - run ``compare_exp.py`` to compare explanations 
+
+## Citing this work
+
+If you use this software please cite 
+```
+@InProceedings{garreau2021what,
+  title = 	 {What does LIME really see in images?},
+  author =       {Garreau, Damien and Mardaoui, Dina},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {3620--3629},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {18--24 Jul},
+  publisher =    {PMLR}
+}
+```
