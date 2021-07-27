@@ -23,7 +23,7 @@ The script ``shape_detector.py`` produces the plots for Figure 3, ``linear_model
 
 ## Citing this work
 
-If you use this software please cite 
+If you use this code please cite 
 ```
 @InProceedings{garreau2021what,
   title = 	 {What does LIME really see in images?},
